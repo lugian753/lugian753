@@ -4,7 +4,10 @@ An aspiring software engineer focused on software development.
 ### Featured Projects:
 
 -TicTacToe: a Python terminal application where you can play both singleplayer and local multiplayer.
+
+
 -Chess: a Python terminal application where you can play both singleplayer and local multiplayer
+https://github.com/lugian753/my-portfolio/tree/main/chess
 
 
 <!--

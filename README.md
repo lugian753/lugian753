@@ -3,12 +3,9 @@ An aspiring software engineer focused on software development.
 
 ### Featured Projects:
 
-#### [TicTacToe]:() 
-a Python terminal application where you can play both singleplayer and local multiplayer.
+- [TicTacToe](https://github.com/lugian753/my-portfolio/tree/main/tictactoe): a Python terminal application where you can play tictactoe both singleplayer and local multiplayer. Position evaluation and a hint system have been implemented for improved user experience and gameplay. Singleplayer is unbeatable due to the implementation of Minimax algorithm, which calulates the best possible move in a given position.
 
-
-#### [Chess](https://github.com/lugian753/my-portfolio/tree/main/chess): 
-a Python terminal application where you can play both singleplayer and local multiplayer
+- [Chess](https://github.com/lugian753/my-portfolio/tree/main/chess): a Python terminal application where you can play chess both singleplayer and local multiplayer. Still working on it, for more info go to the repo
 
 
 <!--

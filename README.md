@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Gianluca Carta 👋
+An aspiring software engineer focused on software development.
+
+### Featured Projects:
+
+-TicTacToe: a Python terminal application where you can play both singleplayer and local multiplayer.
+-Chess: a Python terminal application where you can play both singleplayer and local multiplayer
+
 
 <!--
 **lugian753/lugian753** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
